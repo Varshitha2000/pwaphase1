@@ -1,0 +1,44 @@
+{
+  "profile":{
+    "image":"images/girl.jpg",
+    "name":"varsha",
+    "id":"00WN15",
+    "mobile":"9786543210",
+    "email":"varsha@gmail.com"
+  },
+  "career_objective":{
+    "info":"to achieve success in life"
+  },
+  "edu":
+[
+  {
+    "id":"1",
+    "insti":"mits",
+    "quali":"btech",
+    "per":"96",
+    "yop":"2021"
+  },
+{
+      "id":"2",
+      "insti":"narayana",
+      "quali":"inter",
+      "per":"98",
+      "yop":"2017"
+},
+{
+  "id":"3",
+  "insti":"narayana",
+  "quali":"ssc",
+  "per":"98",
+  "yopS":"2015"
+}
+],
+"skills":{
+  "s1":"capable of working at any condition",
+  "s2":"leading capability"
+},
+"hobbies":{
+  "h1":"writing novels",
+  "h2":"reading"
+}
+}
